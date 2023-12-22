@@ -1023,3 +1023,9 @@
   }
 
 }
+
+@media screen and (max-width: 375px) {
+  .container .section-2 .section-2-container .section-2-right .more-info {
+    display: none;
+  }
+}
